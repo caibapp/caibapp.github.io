@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Books on CaiBap</title>
+    <link>https://caibapp.github.io/categories/books/</link>
+    <description>Recent content in Books on CaiBap</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate>
+    
+	<atom:link href="https://caibapp.github.io/categories/books/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Làm bạn với những con giời</title>
+      <link>https://caibapp.github.io/featured/lam_ban_voi_nhung_con_gioi/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://caibapp.github.io/featured/lam_ban_voi_nhung_con_gioi/</guid>
+      <description>Tuổi thơ ai cũng nghĩ có những người bạn mà ta nghĩ sẽ gắn bó cả đời bởi vì hợp tính, bởi vì họ hay chia sẻ với mình đồ chơi, đồ ăn và cả những tâm sự ngô nghê nữa, người mà ới một cái là có mặt ngay.</description>
+    </item>
+    
+  </channel>
+</rss>
