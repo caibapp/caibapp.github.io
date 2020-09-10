@@ -6,10 +6,19 @@
     <description>Recent content in Categories on CaiBap</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2020 14:46:10 +0600</lastBuildDate>
     
 	<atom:link href="https://caibapp.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Books</title>
+      <link>https://caibapp.github.io/categories/books/</link>
+      <pubDate>Fri, 01 May 2020 14:46:10 +0600</pubDate>
+      
+      <guid>https://caibapp.github.io/categories/books/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Article</title>
@@ -17,24 +26,6 @@
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
       <guid>https://caibapp.github.io/categories/article/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Books</title>
-      <link>https://caibapp.github.io/categories/books/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>https://caibapp.github.io/categories/books/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fashion</title>
-      <link>https://caibapp.github.io/categories/fashion/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>https://caibapp.github.io/categories/fashion/</guid>
       <description></description>
     </item>
     
@@ -48,29 +39,20 @@
     </item>
     
     <item>
-      <title>Philosophy</title>
-      <link>https://caibapp.github.io/categories/philosophy/</link>
+      <title>Skills</title>
+      <link>https://caibapp.github.io/categories/skills/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://caibapp.github.io/categories/philosophy/</guid>
+      <guid>https://caibapp.github.io/categories/skills/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Travel</title>
-      <link>https://caibapp.github.io/categories/travel/</link>
+      <title>Trips</title>
+      <link>https://caibapp.github.io/categories/trips/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://caibapp.github.io/categories/travel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Valuable Idea</title>
-      <link>https://caibapp.github.io/categories/valuable-idea/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>https://caibapp.github.io/categories/valuable-idea/</guid>
+      <guid>https://caibapp.github.io/categories/trips/</guid>
       <description></description>
     </item>
     
