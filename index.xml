@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Tìm gì?</title>
+      <link>https://caibapp.github.io/posts/life/thien_nguyen_trai_phong/</link>
+      <pubDate>Fri, 01 May 2020 14:46:10 +0600</pubDate>
+      
+      <guid>https://caibapp.github.io/posts/life/thien_nguyen_trai_phong/</guid>
+      <description>Tôi tìm gì giữa cái vội vã của Hà Thành</description>
+    </item>
+    
+    <item>
       <title>Kỹ năng</title>
       <link>https://caibapp.github.io/featured/skills/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
@@ -40,20 +49,11 @@
     
     <item>
       <title>Organize Your Life With 10 Simple rule</title>
-      <link>https://caibapp.github.io/featured/organize-your-life.3/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>https://caibapp.github.io/featured/organize-your-life.3/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Organize Your Life With 10 Simple rule</title>
       <link>https://caibapp.github.io/featured/organize-your-life.4/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
       <guid>https://caibapp.github.io/featured/organize-your-life.4/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <description></description>
     </item>
     
     <item>
@@ -63,6 +63,24 @@
       
       <guid>https://caibapp.github.io/featured/my_trip/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Điều thú vị trong cuộc sống</title>
+      <link>https://caibapp.github.io/featured/life/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://caibapp.github.io/featured/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bến Cốc - Điểm hẹn của em và tôi …</title>
+      <link>https://caibapp.github.io/posts/life/thien_nguyen_doi_coc_2018/</link>
+      <pubDate>Sat, 10 Nov 2018 14:46:10 +0600</pubDate>
+      
+      <guid>https://caibapp.github.io/posts/life/thien_nguyen_doi_coc_2018/</guid>
+      <description>Hà Nội hôm nay chớm lạnh. Nó làm tôi nhớ đến cái lạnh mà tôi cảm nhận được ngày hôm qua.</description>
     </item>
     
   </channel>
