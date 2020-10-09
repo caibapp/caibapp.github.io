@@ -31,10 +31,11 @@ function executeSearch(searchQuery){
     var fuse = new Fuse(pages, fuseOptions);
     var result = fuse.search(searchQuery);
     console.log({"matches":result});
+    debugger
     if(result.length > 0){
       populateResults(result);
     }else{
-      $('#search-results').append("<h3 class=\"text-center\">No matches found</h3>");
+      $('#search-results').append("<h3 class=\"text-center\">Không tìm thấy kết quả nào.</h3>");
     }
   });
 }
